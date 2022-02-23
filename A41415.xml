@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news from the English fleet being an account of a great bloody engagement which hapned yesterday betwixt Their Majesties fleet commanded by the Earl of Torrington and the French fleet, near the Beachy, upon the coast of Suffolk : with a particular relation of the blowing-up of six of the biggest of the French men of war ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41415</idno>
+            <idno type="STC">Wing G1070A</idno>
+            <idno type="STC">ESTC R36549</idno>
+            <idno type="EEBO-CITATION">15721146</idno>
+            <idno type="OCLC">ocm 15721146</idno>
+            <idno type="VID">104527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news from the English fleet being an account of a great bloody engagement which hapned yesterday betwixt Their Majesties fleet commanded by the Earl of Torrington and the French fleet, near the Beachy, upon the coast of Suffolk : with a particular relation of the blowing-up of six of the biggest of the French men of war ...</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Clarke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beachy Head (England), Battle of, 1690.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Europe --  History --  1648-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account_of_sea_battle">
+            <pb n="1" facs="tcp:104527:1" rendition="simple:additions"/>
+            <head>Good News from the Engliſh Fleet: Being an ACCOUNT OF A <hi>Great &amp; Bloody Engagement</hi> Which hapned Yeſterday, betwixt Their Majeſties Fleet, Commanded by the Earl of Torrington, <hi>And the French Fleet.</hi> Near the <hi>BEACHY,</hi> upon The Coaſt of Suſſex.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>2. July. 1690</add>
+                  </date>
+               </dateline>
+            </opener>
+            <head type="sub">With a Particular Relation of the Blowing-up of Six of the Biggeſt of the <hi>FRENCH</hi> Men of War; The Breaking the Lines of the <hi>FRENCH;</hi> And ſeveral other Occurrences.</head>
+            <p>ON Monday the 23th. in<g ref="char:EOLhyphen"/>ſtant, the Earl of <hi>Tor<g ref="char:EOLhyphen"/>rington</hi> Sailed with their Majeſties Fleet from St. <hi>Hellens,</hi> and the <hi>Spithead;</hi> the Wind being at North-Eaſt, and ſtood to<g ref="char:EOLhyphen"/>ward the <hi>French</hi> Fleet (which, as the Advice Boats brought an Ac<g ref="char:EOLhyphen"/>count, lay at Anchor about two Leagues from Shore, off of <hi>Freſh<g ref="char:EOLhyphen"/>water-gate</hi> in the <hi>Iſle of Wight</hi>) with a Reſolution to Fight the <hi>French;</hi> but the Witd coming about, and taking them ſhort, he came to an Anchor, off of a place called <hi>Dun<g ref="char:EOLhyphen"/>noſe,</hi> which is within Five Leagues, or Fifteen Engliſh Miles, of the <hi>French</hi> Fleet, who were removed, and were at Auchor in <hi>Compton-Bay.</hi> The next day, being Tueſ<g ref="char:EOLhyphen"/>day, about Three in the Morning, there came up with us, and joyned our Fleet, ſeveral Men of War, <hi>Dutch</hi> and <hi>Engliſh;</hi> and in the E<g ref="char:EOLhyphen"/>vening, the <hi>Dutch</hi> Admiral <hi>Evertz<g ref="char:EOLhyphen"/>zen,</hi> in a Ship of Ninety delicate Braſs Guns, with Two <hi>Dutch</hi> Men of War more, one of which was a Rear Admiral. Alſo their Ma<g ref="char:EOLhyphen"/>jeſties Ships, the <hi>Lyon</hi> and <hi>Con<g ref="char:EOLhyphen"/>ſtant Warwick,</hi> all joyned our Fleet.</p>
+            <p>On Wedneſday, about Five in the Morning, our Admiral, the Earl of <hi>Torrington,</hi> ſtood to the Weſtward, the Wind at South and by Eaſt, with a Windward Tide; and about Noon they were with<g ref="char:EOLhyphen"/>in fight of <hi>Dunnoſe Point,</hi> about Four Leagues from the Shore.</p>
+            <p>The <hi>French</hi> Fleet ſtood at the ſame time to the Eaſt-ward, being
+<pb n="2" facs="tcp:104527:2"/>at the like diſtance from the Shore; and about Three of the Clock in the Afternoon, the two Fleets were within a little above a League of each other; ſo that it was verily expected an Engagement would immediately enſue, by the Diſpo<g ref="char:EOLhyphen"/>ſition of the <hi>French</hi> in their ſeem<g ref="char:EOLhyphen"/>ing to meet us; but on a ſudden, the Admiral of the <hi>French</hi> Ordered a Gun to be Fired, and Tacqued about, and the reſt of the Fleet ſtood after and followed him; who ſteered directly Weſt-ward, and from us. Our Fleet follow'd them till Night, but we could not reach them near enough to Engage.</p>
+            <p>The next day being Thurſday the 26th. the <hi>French</hi> Fleet came to an Anchor, on the South ſide of the <hi>Iſle of Wight.</hi>
+            </p>
+            <p>On Friday there aroſe ſo great a Miſt and Fog, that both the Fleets continued at Anchor.</p>
+            <p>Nothing of moment happened on Saturday.</p>
+            <p>On Sunday, being the 29th. in the Morning, there joyn'd our Ad<g ref="char:EOLhyphen"/>miral, Their Majeſties Ships the <hi>Mil<g ref="char:EOLhyphen"/>ford</hi> and <hi>Garland,</hi> and a Dutch Man of War of 72 Guns. And in the Afternoon, our Advice-Boats brought Word, That the <hi>French</hi> Fleet had weighed Anchor, and were put to Sea; upon which, our Fleet weighed likewiſe, and made towards the <hi>French,</hi> who ſteered their Courſe as if they had endea<g ref="char:EOLhyphen"/>voured to get the Wind of us, or rather to avoid Fighting, and make for their own Coaſt, would the Wind have permitted them.</p>
+            <p>And Yeſterday, being Monday, (the 30th. Inſtant) about Eight in the Morning, our Fleet came up with the <hi>French</hi> (who ſteered Eaſt<g ref="char:EOLhyphen"/>ward) early in the Morning, near the. <hi>Beechy,</hi> on the Coaſt of <hi>Suſſex,</hi> about Three Leagues off of the Shoar: And the two Fleets being drawn up into Lines, in order of Battel, ours in the Form of a Half-Moon, immediately the two Ad<g ref="char:EOLhyphen"/>mirals advanced at the Head of their Squadrons; and ſeveral S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ots be<g ref="char:EOLhyphen"/>exchanged by each Fleet's Defiance-Frigats and Advice-Boats, about Ten a Clock a moſt furious and bloody Fight enſued between both Fleets, engaging Board and Board; which though it continued, till Night put an end, yet 'tis obſer<g ref="char:EOLhyphen"/>vable, That after a few Hours, we took the Lines of the <hi>French</hi> Fleet, and put them into great Confuſi<g ref="char:EOLhyphen"/>on. They Fought retreating for ſeveral Hours before Night, and tis thought this Morning our Fleet has engaged them again, the Wind 'being ſtill at Eaſt South Eaſt; ſo that they cannot well eſcape us, by making to any of their own Ports that can harbour them, the neareſt <hi>French</hi> Ports being <hi>Dunkirk</hi> and <hi>Calice,</hi> neither of which can har<g ref="char:EOLhyphen"/>bour their great Men of War, by reaſon of the ſhallowneſs of the waters, that they cannot get over the Bars: So that we Doubt not, but our Fleet (by the Bleſſing of GOD) will deſtroy moſt of the <hi>French,</hi> before we let them go off from the <hi>Engliſh</hi> Coaſt.</p>
+            <p>The particulars of this Engage<g ref="char:EOLhyphen"/>ment, alſo what Ships we have Taken, Sunk, and Men Killed, is expected with grert impatience: But ſeveral Gentlemen from the Hills of <hi>Suſſex,</hi> with their Tele<g ref="char:EOLhyphen"/>ſcopes, affirm, that they ſaw Six large Ships of the <hi>French</hi> on Fire, one of which being the <hi>Dauphin,</hi> a Ship of 110 Braſs Guns; on Board of which was their Grand Admiral M. <hi>Turville.</hi>
+            </p>
+            <p>And thus we ſee how the great Monarch of the Univerſe, and So<g ref="char:EOLhyphen"/>veraign Diſpoſer of all Sublunary things, is graciouſly pleas'd to bleſs their Majeſties Armes, as well by Sea as Land; to be, in ſo great a meaſure, inſtrumental in pulling down the <hi>French</hi> Tyrant, who has arrived to that pitch of Pride and Vain glory (like the great Tyrant in the Goſpel) that neither fear'd G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, nor regarded Man.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Clarke,</hi> in <hi>Smithfield.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
